@@ -23,7 +23,7 @@ vi palindrome.py
 
 ![image of python version](https://dm2306files.storage.live.com/y4m-2k8UtvR80v5A4OdRWwAqF9Mc9HbDaEksywl2r_SkUO-jsBzatrU8EjxvbVy4jD5QHjW0VxRy2IBc7vVUG_VyjPOXttXmBfQ1JEifmeUo8B0UbbE3ymGQ9v7OEbKBcrd75eZDc667n-UCZyq21rqWZH6GS545oPl9avzehZIydP8XkM1rK706VsYsi7IFqGNkbtlp8u3Pd5s_31KFuapQw/4.jpg?psid=1&width=613&height=570)
 
-5 hi **Esc** and theb enter **:wq** to save and exit editor
+5. hi **Esc** and theb enter **:wq** to save and exit editor
 
 6. to run your python code enter **python filename.py**
 ```
